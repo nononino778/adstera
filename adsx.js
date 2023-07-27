@@ -1,11 +1,11 @@
 
 //simpan ke dalam file adsx.js
 
-const DIRECTLINK_ADS = "https://stereosuspension.com/bb120q87k?key=321334c3d6953e68e01852e8de133755";
+const DIRECTLINK_ADS = "https://ingredientwritten.com/bb120q87k?key=321334c3d6953e68e01852e8de133755";
 
 var scripts = [
-	"https://stereosuspension.com/da/75/6b/da756b6a74cc75f3f1cc3621de946aff.js",//popunder js
-	"https://stereosuspension.com/1c68e32d7bbb512efd6265517e373805/invoke.js",//banner js
+	"https://ingredientwritten.com/bc/90/c7/bc90c7d6c0f997b9f29a9d84374ecab1.js",//popunder js
+	"https://ingredientwritten.com/9397dc242ae9fce609e5794607474a51/invoke.js",//banner js
 ];
 
 for (index = 0; index < scripts.length; ++index) {
